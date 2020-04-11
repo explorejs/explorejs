@@ -1,12 +1,11 @@
 # Vanilla JS
 
-Vanilla JS refers to writing JavaScript without a framework, (Frameworks are react, vue etc)
+Vanilla JS is one term for writing JavaScript without a framework, (Frameworks are react, vue etc)
 
-[MDN - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+#### Resources
 
-## Resources
-
-- https://developer.mozilla.org/en-US/docs/Learn
-- https://exercism.io/
-- https://javascript30.com/
-- https://www.freecodecamp.org/
+- [MDN - JavaScript](https://developer.mozilla.org/en-US/docs/Learn)
+- [Codecademy Intro to JS](https://www.codecademy.com/learn/introduction-to-javascript)
+- [Free Code Camp](https://www.freecodecamp.org/learn)
+- [Exercism IO](https://exercism.io/)
+- [JavaScript 30](https://javascript30.com/)
