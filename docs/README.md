@@ -9,4 +9,4 @@ First things first read and abide by our [Code of Conduct](/codeOfConduct)
 > - Open and Inclusive Community
 > - Explorer / Student mindset
 > - External Resources
-> - Sunday School - open screen share session
+> - Sunday Sessions - open screen share session
