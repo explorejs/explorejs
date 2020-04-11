@@ -2,12 +2,23 @@
 
 Welcome to ExploreJS
 
+This site is developed using [docsify](https://github.com/docsifyjs) 
+
+Markdown pages and an index.html entry point. 
+
 ## Getting started
 
-This is just html, can run the repo with the docsify cli for hot reloading
+
+After installing the docsify cli, you can run the repo with
 
 `docsify serve ./docs`
 
-or another server/ go live option 
+### Docsify CLI
 
-or just open the `index.html` file and refresh for changes. 
+https://github.com/docsifyjs/docsify-cli
+
+`npm i docsify-cli -g`
+
+## Markdown
+
+[Markdown Tips](https://www.markdownguide.org/cheat-sheet/)
