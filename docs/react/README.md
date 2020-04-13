@@ -10,6 +10,7 @@
 #### Getting Started
 
 - [ReactJS.org Tutorial](https://reactjs.org/tutorial/tutorial.html)
+- [React Patterns](https://reactpatterns.com/)
 - [Traversy Crash Course](https://www.youtube.com/watch?v=sBws8MSXN7A&feature=youtu.be)
 - [Kent Dodds Beginner guide](https://egghead.io/courses/the-beginner-s-guide-to-react)
 
