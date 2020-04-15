@@ -1,6 +1,6 @@
-# Vanilla JS
+# JavaScript / Vanilla JS
 
-Vanilla JS is one term for writing JavaScript without a framework, (Frameworks are react, vue etc)
+(Vanilla JS is just a term for writing JavaScript without a framework, (Frameworks are react, vue etc))
 
 #### Resources
 
