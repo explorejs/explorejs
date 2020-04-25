@@ -1,3 +1,7 @@
+<!-- <div style="width:100%;text-align:center;margin-top:-10px;">
+<a href="/"><img src="./images/exJSLogo.png" height="50px"></a>
+</div> -->
+
 - [Home](/)
 - [Code of Conduct](/codeOfConduct)
 - [About](/about)

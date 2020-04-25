@@ -1,4 +1,8 @@
-# about
+<div style="width:100%;text-align:center">
+<img src="./images/exJSLogo.png" height="150px">
+</div>
+
+# About
 
 ExploreJS is a project to scale mentoring for new developers/students who are learning JavaScript.
 

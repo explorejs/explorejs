@@ -1,3 +1,7 @@
+<div style="width:100%;text-align:center">
+<img src="./images/exJSLogo.png" height="150px">
+</div>
+
 ExploreJS is a community that has a Code of Conduct adapted from the [Contributor Covenant][homepage], version 2.0,
 available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
 
