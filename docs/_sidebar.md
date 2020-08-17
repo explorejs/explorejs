@@ -5,7 +5,7 @@
 - [Home](/)
 - [Code of Conduct](/codeOfConduct)
 - [About](/about)
-- [Sunday Sessions](/sundaysessions)
+- [Sessions](/sessions)
 - [JavaScript / Vanilla JS](/vanilla)
   - [Primitives](/primitives)
   - [Event Loop](/eventLoop)

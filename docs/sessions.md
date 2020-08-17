@@ -2,8 +2,8 @@
 <img src="./images/exJSLogo.png" height="150px">
 </div>
 
-# Sunday Sessions
+# Sunday and Wednesday Sessions
 
-Open office hours 10:00 am EST join via patreon or email sub
+Open office hours Sunday 10:00 am EST and Wednesday 8:00 pm EST join via patreon or email sub
 
 [Email Sub](http://eepurl.com/gZuLi1)
