@@ -5,7 +5,7 @@
 - [Home](/)
 - [Code of Conduct](/codeOfConduct)
 - [About](/about)
-- [Sessions](/sessions)
+- [Weekly Sessions](/weekly_sessions/)
 - [JavaScript / Vanilla JS](/vanilla)
   - [Primitives](/primitives)
   - [Event Loop](/eventLoop)
@@ -17,4 +17,6 @@
 - [Interviewing](/interviewing)
 - [Job Hunting](/jobs)
 - [Patreon](/patreon)
+  <br/>
 - [GH / View Source](https://github.com/explorejs)
+- [docs on docify](https://docsify.js.org/)
