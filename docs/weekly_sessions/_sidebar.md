@@ -1,0 +1,4 @@
+- [<< Back](/)
+ - Weekly Sessions
+    - [09 Sept 2020](/weekly_sessions/09_2020)
+    - [10 Oct  2020](/weekly_sessions/10_2020)
