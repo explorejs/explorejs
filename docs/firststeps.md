@@ -27,5 +27,5 @@
 
 ## Intermediate:
 
-[Exercism.io](https://exercism.io/)
-[Teach yourself Computer Science](https://teachyourselfcs.com/)
+- [Exercism.io](https://exercism.io/)
+- [Teach yourself Computer Science](https://teachyourselfcs.com/)
