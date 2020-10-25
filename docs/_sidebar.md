@@ -5,6 +5,7 @@
 - [Home](/)
 - [Code of Conduct](/codeOfConduct)
 - [About](/about)
+- [First Steps](/firststeps)
 - [Weekly Sessions](/weekly_sessions/)
 - [JavaScript / Vanilla JS](/vanilla)
   - [Primitives](/primitives)
