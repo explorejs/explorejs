@@ -1,10 +1,14 @@
 # Job Hunting Resources
 
+- [https://angel.co/](https://angel.co/)
+- [https://www.glassdoor.com/](https://www.glassdoor.com/)
+- [https://hired.com/](https://hired.com/)
+- [https://www.indeed.com/](https://www.indeed.com/)
+- [https://www.keyvalues.com/](https://www.keyvalues.com/)
+- [https://www.linkedin.com/jobs/](https://www.linkedin.com/jobs/)
 - [https://underdog.io/](https://underdog.io/)
 - [https://www.vettery.com/](https://www.vettery.com/)
-- [https://angel.co/](https://angel.co/)
-- [https://hired.com/](https://hired.com/)
-- [https://www.linkedin.com/jobs/](https://www.linkedin.com/jobs/)
+- [https://www.ycombinator.com/jobs/](https://www.ycombinator.com/jobs/)
 
 ## Are portfolio sites a priority?
 
