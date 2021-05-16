@@ -10,6 +10,10 @@
 - [https://www.vettery.com/](https://www.vettery.com/)
 - [https://www.ycombinator.com/jobs/](https://www.ycombinator.com/jobs/)
 
+# Freelance
+
+- [https://www.upwork.com/](https://www.upwork.com/)
+
 ## Are portfolio sites a priority?
 
 Attended a [Digital Ocean](https://www.digitalocean.com/) careers workshop and asked a few questions around portfolio sites, gh, etc and answers from the panel were yes employers are looking at personal sites and your github, but no they aren't looking at your whole github or that half finished jquery assignment from 3 months ago, having one polished small project with readme etc up front featured is sufficient.
